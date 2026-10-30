@@ -1,0 +1,4 @@
+pandas>=2.2,<4
+streamlit>=1.49,<2
+altair>=5,<7
+

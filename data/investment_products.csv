@@ -1,0 +1,10 @@
+product_id,product_name,asset_class,risk_score,assumed_annual_return,volatility_proxy,annual_expense_ratio,liquidity_days,minimum_investment_inr,lock_in_months,category_description
+PROD01,Liquid Cash Reserve Fund,cash,1,0.055,0.005,0.0020,1,500,0,Cash-like overnight/money-market style category; near-instant access
+PROD02,Fixed-Term Deposit Plan,debt,1,0.070,0.002,0.0000,5,10000,24,Fixed-rate term deposit; locked for 24 months; payout settles after lock-in ends
+PROD03,Short Duration Debt Fund,debt,2,0.068,0.020,0.0040,2,1000,0,High-quality short-maturity bonds; mild interest-rate sensitivity
+PROD04,Diversified Corporate Bond Fund,debt,2,0.074,0.035,0.0065,3,1000,0,Medium-duration corporate bonds; rate and credit-spread sensitivity
+PROD05,Balanced Hybrid Fund,hybrid,3,0.095,0.090,0.0110,3,1000,0,Roughly equal mix of equity and debt; actively managed
+PROD06,Broad Market Index Fund,equity,4,0.110,0.150,0.0020,3,500,0,Passive large-cap equity index tracker; low cost
+PROD07,Tax-Saver Equity Plan,equity,4,0.120,0.170,0.0090,3,500,36,Actively managed diversified equity with a 36-month lock-in; tax-saving eligible
+PROD08,Thematic Growth Equity Fund,equity,5,0.135,0.240,0.0160,4,1000,0,Concentrated sector/theme equity; high volatility and cost
+

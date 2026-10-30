@@ -1,0 +1,14 @@
+investor_id,goal_label,goal_amount_inr,horizon_months,existing_investment_inr,monthly_sip_inr,risk_tolerance_score,emergency_fund_months,liquidity_need_inr,experience,preference
+INV01,Wedding expenses,1000000,24,300000,25000,2,6.0,150000,intermediate,
+INV02,Car purchase,800000,18,200000,30000,5,8.0,0,intermediate,high_growth
+INV03,Home renovation,300000,15,150000,10000,1,4.0,50000,beginner,capital_protection
+INV04,Home down payment,2500000,60,500000,20000,3,3.0,0,intermediate,low_cost
+INV05,Child school fees,600000,48,100000,8000,3,1.0,40000,beginner,
+INV06,Retirement corpus,15000000,240,800000,15000,2,12.0,0,beginner,avoid_equity
+INV07,Child higher education,12000000,144,1000000,40000,4,9.0,0,advanced,tax_saving
+INV08,Start a business,5000000,36,200000,20000,3,1.5,100000,intermediate,high_growth
+INV09,Second home down payment,3000000,72,1500000,10000,4,6.0,600000,advanced,
+INV10,Early retirement fund,5000000,96,600000,25000,5,7.0,0,intermediate,avoid_equity
+INV11,Higher studies fund,400000,84,0,3000,3,2.0,0,beginner,no_lock_in
+INV12,Retirement income reserve,4500000,36,4000000,0,2,18.0,800000,advanced,capital_protection
+

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+work/
+pytest-cache-files-*/
+outputs/*.zip
+.streamlit/secrets.toml
+.codex-tools/
+.codex-tool-tmp/
+
