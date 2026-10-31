@@ -73,6 +73,7 @@ for prompt in consistency["prompts"]:
 st.subheader(f"{profile.goal_label} · {selected_id}")
 st.write(
     f"Goal ₹{profile.goal_amount_inr:,.0f} in {profile.horizon_months:g} months · "
+    f"Starting balance ₹{profile.existing_investment_inr:,.0f} · Monthly SIP ₹{profile.monthly_sip_inr:,.0f} · "
     f"Risk {profile.risk_tolerance_score:g}/5 · Emergency fund {profile.emergency_fund_months:g} months · "
     f"Preference `{profile.preference or 'none'}` · Experience {profile.experience}"
 )
